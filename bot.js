@@ -2,7 +2,7 @@ const mineflayer = require("mineflayer");
 
 const HOST = "togetherusss.aternos.me";
 const PORT = 56747;
-const BOT_USERNAME = "AxelBot";
+const BOT_USERNAME = "EDITH";
 
 const RECONNECT_DELAY = 5000;
 
@@ -25,7 +25,7 @@ function startBot() {
     console.log("✅ Bot successfully joined the server!");
 
     setTimeout(() => {
-      bot.chat("Hello! I am AxelBot 👋");
+      bot.chat("Hello! I am Edith 👋");
       console.log("💬 Join message sent.");
     }, 2000);
   });
