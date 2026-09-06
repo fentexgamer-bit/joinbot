@@ -1,6 +1,6 @@
 const mineflayer = require("mineflayer");
 
-const HOST = "Torsmps1.aternos.me";
+const HOST = "togetherusss.aternos.me";
 const PORT = 56747;
 const BOT_USERNAME = "AxelBot";
 
