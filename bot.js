@@ -3,7 +3,7 @@ const { pathfinder, Movements, goals } = require("mineflayer-pathfinder");
 
 const HOST = "togetherusss.aternos.me";
 const PORT = 56747;
-const BOT_USERNAME = "AxelBot";
+const BOT_USERNAME = "EDITH";
 
 const RECONNECT_DELAY = 5000;
 
@@ -30,7 +30,7 @@ function startBot() {
 
     // Join message
     setTimeout(() => {
-      bot.chat("Hello! I am AxelBot 👋");
+      bot.chat("Hello! I am EDITH 👋");
     }, 2000);
 
     // Start random movement
